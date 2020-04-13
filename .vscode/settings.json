@@ -1,5 +1,8 @@
 {
     "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+    "C_Cpp.default.browse.path": [
+        "/media/xyc/新加卷2/workspace/code/github.com/libevent"
+    ],
     "editor.formatOnSave": true,
     "files.associations": {
         "array": "cpp",
@@ -44,6 +47,11 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "thread": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "cinttypes": "cpp"
     }
 }

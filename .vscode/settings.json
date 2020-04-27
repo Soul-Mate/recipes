@@ -1,7 +1,8 @@
 {
     "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
     "C_Cpp.default.browse.path": [
-        "/media/xyc/新加卷2/workspace/code/github.com/libevent"
+        "/media/xyc/新加卷2/workspace/code/github.com/libevent",
+        // "/mnt/g/workspace/code/github.com/libevent"
     ],
     "editor.formatOnSave": true,
     "files.associations": {
@@ -53,6 +54,7 @@
         "numeric": "cpp",
         "random": "cpp",
         "cinttypes": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "csignal": "cpp"
     }
 }
